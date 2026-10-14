@@ -52,7 +52,6 @@ VaRcade is in early development. Flat-screen Linux support comes first, with VR,
 **Requirements**
 
 - Unity 6.0 LTS (6000.0.75f1)
-- RetroArch
 
 ```bash
 git clone https://github.com/CyberRaybolt/VaRcade.git
