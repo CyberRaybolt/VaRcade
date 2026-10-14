@@ -62,7 +62,7 @@ Open the project folder in Unity Hub.
 
 ## Contributing
 
-VaRcade is in early development and the codebase changes fast. Issues and suggestions are welcome.
+VaRcade is in early development and the codebase changes often. Issues and suggestions are welcome.
 
 ## License
 
